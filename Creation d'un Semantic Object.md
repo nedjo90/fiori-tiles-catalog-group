@@ -1,4 +1,4 @@
-[[Semantic Object#Créer un Semantic Object|Créer un semantic object]]
+[[Creation d'un Semantic Object#Créer un Semantic Object|Créer un semantic object]]
 
 ### **Qu'est-ce qu'un Semantic Object dans SAP Fiori ?**
 
@@ -32,3 +32,14 @@ Les semantic objects dans SAP Fiori jouent un rôle fondamental dans la définit
 
 # Créer un Semantic Object
 
+1. Sur SAP GUI aller à la transaction `/n/ui2/semobj`
+	1. ![[Pasted image 20240928124537.png]]
+2. Cliquer sur `New entries`
+	1. ![[Pasted image 20240928124709.png]]
+		1. Remplir:
+			1. Semantic Object
+			2. Semantic Object Name
+			3. Semantic Object Description
+	2. Cliquer sur ``save``![[Pasted image 20240928125020.png]]
+	3. Creer une nouvelle requete (F8)![[Pasted image 20240928125140.png]]
+	4. cliquer sur ✅

@@ -19,10 +19,11 @@ Les étapes à suivre:
 		2. Clique sur enregistrer
 9. ![[Pasted image 20240928113313.png]]
 	1. Un nouveau numéro de transport a été créée ici 'S4HK900337' nous l'utiliserons plus tard lors de la creation du catalog
-	2. Clique sur ✅
+	2. Retenir le nom du package ici 'ZPKG_FOR_FIORI' qui sera utilisé dans fiori
+	3. Clique sur ✅
 10. Tu as crée le package que tu vas utiliser pour créer ton catalog, ton group et et ta tuile
 
-=> Suite [[Semantic Object|Le Semantic Object]]
+=> Suite [[Creation d'un catalog]]
 
 
 
